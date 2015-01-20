@@ -2,6 +2,16 @@
 Changelog for package um6
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2015-01-20)
+------------------
+* Parametrize NED->ENU conversion
+* Covariance and accel vector fixes
+* Added reasonable defaults for std dev
+* Scale processed acceleration to SI units
+* Add covariances to acceleration and angular velocity
+* Clean up private params
+* Contributors: Mike Purvis, Paul Bovbel
+
 1.0.0 (2014-04-20)
 ------------------
 * Add roslint.
