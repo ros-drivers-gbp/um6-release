@@ -2,6 +2,11 @@
 Changelog for package um6
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.2 (2015-04-21)
+------------------
+* Add update_rate ROS parameter to set IMU frequency
+* Contributors: Jake Bruce, Mike Purvis
+
 1.1.1 (2015-01-23)
 ------------------
 * Fixup parameter to enable conversion from ned to enu
