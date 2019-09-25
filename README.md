@@ -1,3 +1,26 @@
+## um6 (melodic) - 1.1.3-1
+
+The packages in the `um6` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic um6` on `Wed, 25 Sep 2019 15:56:50 -0000`
+
+The `um6` package was released.
+
+Version of package(s) in repository `um6`:
+
+- upstream repository: https://github.com/ros-drivers/um6.git
+- release repository: https://github.com/ros-drivers-gbp/um6-release.git
+- rosdistro version: `1.1.2-1`
+- old version: `1.1.2-1`
+- new version: `1.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## um6 (kinetic) - 1.1.3-1
 
 The packages in the `um6` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic um6` on `Wed, 25 Sep 2019 15:52:51 -0000`
