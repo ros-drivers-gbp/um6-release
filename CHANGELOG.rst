@@ -2,6 +2,13 @@
 Changelog for package um6
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.3 (2019-09-25)
+------------------
+* Disabled using MagneticField message by default.
+* Updated to be able to use MagneticField message.
+* Updated TravisCI to use Industrial CI for Kinetic and Melodic.
+* Contributors: Tony Baltovski
+
 1.1.2 (2015-04-21)
 ------------------
 * Add update_rate ROS parameter to set IMU frequency
