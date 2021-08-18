@@ -1,3 +1,26 @@
+## um6 (noetic) - 1.1.3-2
+
+The packages in the `um6` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic um6` on `Wed, 18 Aug 2021 16:40:56 -0000`
+
+The `um6` package was released.
+
+Version of package(s) in repository `um6`:
+
+- upstream repository: https://github.com/ros-drivers/um6.git
+- release repository: https://github.com/ros-drivers-gbp/um6-release.git
+- rosdistro version: `1.1.3-1`
+- old version: `1.1.3-1`
+- new version: `1.1.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## um6 (noetic) - 1.1.3-1
 
 The packages in the `um6` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic um6` on `Mon, 25 Jan 2021 19:53:38 -0000`
